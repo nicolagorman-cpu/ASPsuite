@@ -1,0 +1,5 @@
+{
+  "name": "ASPsuite",
+  "description": "A comprehensive project management software solution for an electrical engineering company, centralizing quoting, project management, invoicing, and contact management. This application is built following the development phases outlined in the project scope, starting with the Contacts module.",
+  "requestFramePermissions": []
+}
